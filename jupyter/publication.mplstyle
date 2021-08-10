@@ -1,0 +1,57 @@
+#####################################################################
+# BOXPLOT
+#####################################################################
+boxplot.whiskers : 0.8
+boxplot.flierprops.linewidth : 0.8
+boxplot.flierprops.markersize: 3
+boxplot.boxprops.linewidth: 0.8
+boxplot.whiskerprops.linewidth : 0.8
+boxplot.capprops.linewidth: 0.8
+boxplot.medianprops.color: black
+boxplot.medianprops.linewidth: 0.8
+boxplot.meanprops.linewidth: 0.8
+boxplot.meanprops.markersize: 3
+
+#####################################################################
+# FONTS
+#####################################################################
+font.family : sans-serif
+font.sans-serif : Arial
+
+#####################################################################
+# AXES
+#####################################################################
+axes.linewidth:  0.8
+axes.titlesize : 9
+axes.labelsize : 9
+
+#####################################################################
+# TICKS
+#####################################################################
+xtick.top : True
+xtick.major.size : 2.5
+xtick.minor.size : 1
+xtick.direction: in
+ytick.right : True
+ytick.major.size : 2.5
+ytick.minor.size : 1
+ytick.direction: in
+
+xtick.labelsize : 7
+ytick.labelsize : 7
+
+#####################################################################
+# LEGEND
+#####################################################################
+legend.frameon: True
+legend.fontsize: 7
+#####################################################################
+# FIGURE
+#####################################################################
+figure.dpi : 300
+
+#####################################################################
+# LINES
+#####################################################################
+lines.linewidth : 1.5
+lines.markersize: 4
