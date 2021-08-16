@@ -39,11 +39,11 @@ Great combination of colors can help to highlight the important part of your res
 
 **Dark2 by ColorBrewer**
 
-| Color                                                            | Hex       | 
-| ---------------------------------------------------------------- | --------- |
-| ![#1b9e77](https://via.placeholder.com/25/1b9e77/000000?text=+)  | `#1b9e77` |
-| ![#d95f02](https://via.placeholder.com/25/d95f02/000000?text=+)  | `#d95f02` |
-| ![#7570b3](https://via.placeholder.com/25/7570b3/000000?text=+)  | `#7570b3` |
+| Color                                                            | Hex       | Prot. | Deut. | Trit. |
+| ---------------------------------------------------------------- | --------- | --------- | --------- |
+| ![#1b9e77](https://via.placeholder.com/25/1b9e77/000000?text=+)  | `#1b9e77` |||
+| ![#d95f02](https://via.placeholder.com/25/d95f02/000000?text=+)  | `#d95f02` |||
+| ![#7570b3](https://via.placeholder.com/25/7570b3/000000?text=+)  | `#7570b3` |||
 
 **The Economist** inspired by color schemes sed in The Economist data visualizations
 
@@ -55,7 +55,7 @@ Great combination of colors can help to highlight the important part of your res
 | ![#ffb945](https://via.placeholder.com/25/ffb945/000000?text=+)  | `#ffb945` |
 | ![#7e7e7e](https://via.placeholder.com/25/7e7e7e/000000?text=+)  | `#7e7e7e` |
 
-### Diverging
+#### Diverging
 
 
 
