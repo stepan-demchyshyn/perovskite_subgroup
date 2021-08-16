@@ -37,12 +37,26 @@ Great combination of colors can help to highlight the important part of your res
 
 #### Qualitative
 
-Dark2 by ColorBrewer
+**Dark2 by ColorBrewer**
 
 | Color                                                            | Hex       | 
 | ---------------------------------------------------------------- | --------- |
 | ![#1b9e77](https://via.placeholder.com/25/1b9e77/000000?text=+)  | `#1b9e77` |
 | ![#d95f02](https://via.placeholder.com/25/d95f02/000000?text=+)  | `#d95f02` |
 | ![#7570b3](https://via.placeholder.com/25/7570b3/000000?text=+)  | `#7570b3` |
+
+**The Economist** inspired by color schemes sed in The Economist data visualizations
+
+| Color                                                            | Hex       | 
+| ---------------------------------------------------------------- | --------- |
+| ![#ff5555](https://via.placeholder.com/25/ff5555/000000?text=+)  | `#ff5555` |
+| ![#2ec1d3](https://via.placeholder.com/25/2ec1d3/000000?text=+)  | `#2ec1d3` |
+| ![#0083c5](https://via.placeholder.com/25/0083c5/000000?text=+)  | `#0083c5` |
+| ![#ffb945](https://via.placeholder.com/25/ffb945/000000?text=+)  | `#ffb945` |
+| ![#7e7e7e](https://via.placeholder.com/25/7e7e7e/000000?text=+)  | `#7e7e7e` |
+
+### Diverging
+
+
 
 
