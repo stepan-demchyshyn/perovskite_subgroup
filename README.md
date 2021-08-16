@@ -34,3 +34,15 @@ Color rendering might vary from screen to screen as well as be cosiderably diffe
 Great combination of colors can help to highlight the important part of your research as well as make it stand out among a number of other publications. Aesthetics are a matter of preference and are largely subjective. A good idea is to get feeback from your colleagues or suppervisor and see how other find yoru selection of colors. 
 
 ### Ready made color scheme examples
+
+#### Qualitative
+
+Dark2 by ColorBrewer
+
+| Color                                                            | Hex       | 
+| ---------------------------------------------------------------- | --------- |
+| ![#1b9e77](https://via.placeholder.com/25/1b9e77/000000?text=+)  | `#1b9e77` |
+| ![#d95f02](https://via.placeholder.com/25/d95f02/000000?text=+)  | `#d95f02` |
+| ![#7570b3](https://via.placeholder.com/25/7570b3/000000?text=+)  | `#7570b3` |
+
+
