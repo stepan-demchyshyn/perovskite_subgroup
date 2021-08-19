@@ -8,7 +8,7 @@ These files and templates are simply guidlines and can be changed at wish. The m
 
 ## Colors and colors chemes 
 
-Selection of good color scheme for panels and figures is an important manner which can elevate the quality of your publication. There are several considerations that need to be taken into account when selecting a color scheme, that is an ideal color scheme should be: 
+Selection of good color scheme for panels and figures is a way in which one can elevate the quality of a publication. There are several considerations that need to be taken into account when selecting a color scheme. An ideal color scheme should be: 
 * **Inclusive** 
 * **Media independent** 
 * **Aestheticly appealing**  
@@ -27,11 +27,11 @@ Useful sources on the topic include:
 
 ### Media independent 
 
-Color rendering might vary from screen to screen as well as be cosiderably different when printed on paper. While it is impossible to predict how the reader will se eyour research it is still a good practive to consider potential pitfalls and select colors different in hue and value. 
+Color rendering might vary from screen to screen as well as be cosiderably different when printed on paper. While it is impossible to predict how the reader will see your research it is still a good practive to consider potential pitfalls and select colors different enough so that they will look good both on screen and printed on paper. 
 
 ### Aesthetically appealing
 
-Great combination of colors can help to highlight the important part of your research as well as make it stand out among a number of other publications. Aesthetics are a matter of preference and are largely subjective. A good idea is to get feeback from your colleagues or suppervisor and see how other find yoru selection of colors. 
+Great combination of colors can help to highlight the important part of your research as well as make it stand out among a number of other publications. Aesthetics are a matter of preference and are largely subjective. A good idea is to get feeback from your colleagues or suppervisor and see how others like your selection of colors. 
 
 ### Ready made color scheme examples
 
