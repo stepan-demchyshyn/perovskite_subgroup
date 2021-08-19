@@ -35,7 +35,7 @@ Great combination of colors can help to highlight the important part of your res
 
 ### Ready made color scheme examples
 
-Qualitative color scheme inspired by [The Economist](https://www.economist.com/graphic-detail) in particular by these two plots: [example 1](https://www.economist.com/graphic-detail/2021/08/05/russia-and-kenya-take-the-podium-in-the-athletics-doping-contest) and [example 2](https://www.economist.com/graphic-detail/2021/08/05/russia-and-kenya-take-the-podium-in-the-athletics-doping-contest)
+Qualitative color scheme inspired by [The Economist](https://www.economist.com/graphic-detail) in particular by these two plots: [example 1](https://www.economist.com/graphic-detail/2021/08/05/russia-and-kenya-take-the-podium-in-the-athletics-doping-contest) and [example 2](https://www.economist.com/graphic-detail/2021/05/28/english-clubs-are-dominating-european-football-once-again)
 
 | Color                                                            | Hex       | Prot. | Deut. | Trit. |
 | ---------------------------------------------------------------- | --------- | ------| ------| ----- |
