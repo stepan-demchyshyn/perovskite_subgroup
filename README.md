@@ -35,17 +35,7 @@ Great combination of colors can help to highlight the important part of your res
 
 ### Ready made color scheme examples
 
-#### Qualitative
-
-**Dark2 by ColorBrewer**
-
-| Color                                                            | Hex       | Prot. | Deut. | Trit. |
-| ---------------------------------------------------------------- | --------- | ------| ------| ----- |
-| ![#1b9e77](https://via.placeholder.com/25/1b9e77/000000?text=+)  | `#1b9e77` | ![#9a9176](https://via.placeholder.com/25/9a9176/000000?text=+)|![#a38c85](https://via.placeholder.com/25/a38c85/000000?text=+)|![#459da8](https://via.placeholder.com/25/459da8/000000?text=+)|
-| ![#d95f02](https://via.placeholder.com/25/d95f02/000000?text=+)  | `#d95f02` | ![#9a8a19](https://via.placeholder.com/25/9a8a19/000000?text=+)|![#ac8300](https://via.placeholder.com/25/ac8300/000000?text=+)|![#dd6066](https://via.placeholder.com/25/dd6066/000000?text=+)|
-| ![#7570b3](https://via.placeholder.com/25/7570b3/000000?text=+)  | `#7570b3` | ![#9495a5](https://via.placeholder.com/25/9495a5/000000?text=+)|![#9693b1](https://via.placeholder.com/25/9693b1/000000?text=+)|![#70818a](https://via.placeholder.com/25/70818a/000000?text=+)|
-
-**The Economist** inspired by color schemes sed in The Economist data visualizations
+Qualitative color scheme inspired by [The Economist](https://www.economist.com/graphic-detail) in particular by these two plots: [example 1](https://www.economist.com/graphic-detail/2021/08/05/russia-and-kenya-take-the-podium-in-the-athletics-doping-contest) and [example 2](https://www.economist.com/graphic-detail/2021/08/05/russia-and-kenya-take-the-podium-in-the-athletics-doping-contest)
 
 | Color                                                            | Hex       | Prot. | Deut. | Trit. |
 | ---------------------------------------------------------------- | --------- | ------| ------| ----- |
@@ -54,8 +44,6 @@ Great combination of colors can help to highlight the important part of your res
 | ![#0083c5](https://via.placeholder.com/25/0083c5/000000?text=+)  | `#0083c5` | ![#6a81c1](https://via.placeholder.com/25/6a81c1/000000?text=+)|![#5483ca](https://via.placeholder.com/25/5483ca/000000?text=+)|![#008f99](https://via.placeholder.com/25/008f99/000000?text=+)|
 | ![#ffb945](https://via.placeholder.com/25/ffb945/000000?text=+)  | `#ffb945` | ![#dfc952](https://via.placeholder.com/25/dfc952/000000?text=+)|![#f8bf4d](https://via.placeholder.com/25/f8bf4d/000000?text=+)|![#ffb5bf](https://via.placeholder.com/25/ffb5bf/000000?text=+)|
 | ![#7e7e7e](https://via.placeholder.com/25/7e7e7e/000000?text=+)  | `#7e7e7e` | ![#868484](https://via.placeholder.com/25/868484/000000?text=+)|![#908085](https://via.placeholder.com/25/908085/000000?text=+)|![#86838c](https://via.placeholder.com/25/86838c/000000?text=+)|
-
-#### Diverging
 
 
 
