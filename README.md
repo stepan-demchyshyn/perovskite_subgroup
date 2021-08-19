@@ -45,6 +45,7 @@ Qualitative color scheme inspired by [The Economist](https://www.economist.com/g
 | ![#ffb945](https://via.placeholder.com/25/ffb945/000000?text=+)  | `#ffb945` | ![#dfc952](https://via.placeholder.com/25/dfc952/000000?text=+)|![#f8bf4d](https://via.placeholder.com/25/f8bf4d/000000?text=+)|![#ffb5bf](https://via.placeholder.com/25/ffb5bf/000000?text=+)|
 | ![#7e7e7e](https://via.placeholder.com/25/7e7e7e/000000?text=+)  | `#7e7e7e` | ![#868484](https://via.placeholder.com/25/868484/000000?text=+)|![#908085](https://via.placeholder.com/25/908085/000000?text=+)|![#86838c](https://via.placeholder.com/25/86838c/000000?text=+)|
 
+Here is an example of how this color scheme looks when used in some common plot types. 
 
-
+![the_economist_example_plot](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/the_economist_example.png?raw=true)
 
