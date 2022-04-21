@@ -21,8 +21,8 @@ Useful sources on the topic include:
 
 | Link  | Description |
 | ------------- | ------------- |
-| [David Math Logic colorblind tool](https://davidmathlogic.com/colorblind/)  |    |
-| [Paul Tol Notes](https://personal.sron.nl/~pault/)  |    |
+| [Paul Tol Notes](https://personal.sron.nl/~pault/)  |   An excellent blog with many examples of color schemes for qualitative, diverging, and sequential data sets.  |
+| [David Math Logic colorblind tool](https://davidmathlogic.com/colorblind/)  | A great blog that includes a tool to simulate what your chosen color palette would look like to viewers who are colorblind. |
 
 
 ### Media independent 
@@ -45,7 +45,7 @@ Qualitative color scheme inspired by [The Economist](https://www.economist.com/g
 | ![#ffb945](https://via.placeholder.com/25/ffb945/000000?text=+)  | `#ffb945` | ![#dfc952](https://via.placeholder.com/25/dfc952/000000?text=+)|![#f8bf4d](https://via.placeholder.com/25/f8bf4d/000000?text=+)|![#ffb5bf](https://via.placeholder.com/25/ffb5bf/000000?text=+)|
 | ![#7e7e7e](https://via.placeholder.com/25/7e7e7e/000000?text=+)  | `#7e7e7e` | ![#868484](https://via.placeholder.com/25/868484/000000?text=+)|![#908085](https://via.placeholder.com/25/908085/000000?text=+)|![#86838c](https://via.placeholder.com/25/86838c/000000?text=+)|
 
-Here is an example of how this color scheme looks when used in some common plot types. 
+Here is an example of how this color scheme look when used in common plot types. 
 
 ![the_economist_example_plot](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/the_economist_example.png?raw=true)
 
