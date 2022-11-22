@@ -2,7 +2,7 @@
 
 Here you can find useful files and templates that can spimplify creation of figures and panels for thesis writing and publication. 
 
-Both Origin and Jupyter files serve the purpose of procuding individual panels. Panels can be arranged together using an Inkscape template. 
+Both Origin and Jupyter files serve the purpose of producing individual panels. Panels can be arranged together using an Inkscape template. 
 
 These files and templates are simply guidlines and can be changed at wish. The main purpose of these files is to give a good starting point when creating figures. 
 
@@ -35,17 +35,18 @@ Great combination of colors can help to highlight the important part of your res
 
 ### Ready made color scheme examples
 
-Qualitative color scheme inspired by [The Economist](https://www.economist.com/graphic-detail) in particular by these two plots: [example 1](https://www.economist.com/graphic-detail/2021/08/05/russia-and-kenya-take-the-podium-in-the-athletics-doping-contest) and [example 2](https://www.economist.com/graphic-detail/2021/05/28/english-clubs-are-dominating-european-football-once-again)
+Qualitative color scheme inspired by [The Economist](https://www.economist.com/graphic-detail) (in particular by these two plots: [example 1](https://www.economist.com/graphic-detail/2021/08/05/russia-and-kenya-take-the-podium-in-the-athletics-doping-contest) and [example 2](https://www.economist.com/graphic-detail/2021/05/28/english-clubs-are-dominating-european-football-once-again)) and a quick simulation of the way it would be percieved by people with different types of colorblindness conditions. 
 
 | Color                                                            | Hex       | Prot. | Deut. | Trit. |
 | ---------------------------------------------------------------- | --------- | ------| ------| ----- |
-| ![#ff5555](https://via.placeholder.com/25/ff5555/)  | `#ff5555` | ![#a19671](https://via.placeholder.com/25/a19671/000000?text=+)|![#b79052](https://via.placeholder.com/25/b79052/000000?text=+)|![#ff5d62](https://via.placeholder.com/25/ff5d62/000000?text=+)|
-| ![#2ec1d3](https://via.placeholder.com/25/2ec1d3/000000?text=+)  | `#2ec1d3` | ![#afb2ca](https://via.placeholder.com/25/afb2ca/000000?text=+)|![#aeb0dc](https://via.placeholder.com/25/aeb0dc/000000?text=+)|![#36c4d3](https://via.placeholder.com/25/36c4d3/000000?text=+)|
-| ![#0083c5](https://via.placeholder.com/25/0083c5/000000?text=+)  | `#0083c5` | ![#6a81c1](https://via.placeholder.com/25/6a81c1/000000?text=+)|![#5483ca](https://via.placeholder.com/25/5483ca/000000?text=+)|![#008f99](https://via.placeholder.com/25/008f99/000000?text=+)|
-| ![#ffb945](https://via.placeholder.com/25/ffb945/000000?text=+)  | `#ffb945` | ![#dfc952](https://via.placeholder.com/25/dfc952/000000?text=+)|![#f8bf4d](https://via.placeholder.com/25/f8bf4d/000000?text=+)|![#ffb5bf](https://via.placeholder.com/25/ffb5bf/000000?text=+)|
-| ![#7e7e7e](https://via.placeholder.com/25/7e7e7e/000000?text=+)  | `#7e7e7e` | ![#868484](https://via.placeholder.com/25/868484/000000?text=+)|![#908085](https://via.placeholder.com/25/908085/000000?text=+)|![#86838c](https://via.placeholder.com/25/86838c/000000?text=+)|
+| ![#ff5555](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/ff5555.png?raw=true)  | `#ff5555` | ![#a19671](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/a19671.png?raw=true)|![#b79052](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/b79052.png?raw=true)|![#ff5d62](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/ff5d62.png?raw=true)|
+| ![#2ec1d3](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/2ec1d3.png?raw=true)  | `#2ec1d3` | ![#afb2ca](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/afb2ca.png?raw=true)|![#aeb0dc](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/aeb0dc.png?raw=true)|![#36c4d3](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/36c4d3.png?raw=true)|
+| ![#0083c5](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/0083c5.png?raw=true)  | `#0083c5` | ![#6a81c1](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/6a81c1.png?raw=true)|![#5483ca](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/5483ca.png?raw=true)|![#008f99](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/008f99.png?raw=true)|
+| ![#ffb945](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/ffb945.png?raw=true)  | `#ffb945` | ![#dfc952](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/dfc952.png?raw=true)|![#f8bf4d](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/f8bf4d.png?raw=true)|![#ffb5bf](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/ffb5bf.png?raw=true)|
+| ![#7e7e7e](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/7e7e7e.png?raw=true)  | `#7e7e7e` | ![#868484](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/868484.png?raw=true)|![#908085](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/908085.png?raw=true)|![#86838c](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/color_squares/86838c.png?raw=true)|
 
 Here is an example of how this color scheme look when used in common plot types. 
 
 ![the_economist_example_plot](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/the_economist_example.png?raw=true)
 
+Also here is an example publication from our group that used the color scheme mentioned above: [Lehner, L. E., Demchyshyn, S., Frank, K., Minenkov, A., Kubicki, D. J., Sun, H., ... & Kaltenbrunner, M. (2022). Elucidating the Origins of High Preferential Crystal Orientation in Quasi‐2D Perovskite Solar Cells. Advanced Materials, 2208061.](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202208061)
