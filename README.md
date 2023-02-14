@@ -48,4 +48,5 @@ Also here is an example publication from our group that used the color scheme me
 | ------------- | ------------- |
 | [Paul Tol Notes](https://personal.sron.nl/~pault/)  |   An excellent blog with many examples of color schemes for qualitative, diverging, and sequential data sets.  |
 | [David Math Logic colorblind tool](https://davidmathlogic.com/colorblind/)  | A great blog that includes a tool to simulate what your chosen color palette would look like to viewers who are colorblind. |
+| [Color Brewer ](https://colorbrewer2.org/) | Online tool developed by Cynthia Brewer mostly focused on cartography, but quite useful for other applications too. |
 
