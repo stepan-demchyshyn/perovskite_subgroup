@@ -26,7 +26,10 @@ Color rendering might vary from screen to screen as well as be cosiderably diffe
 
 Great combination of colors can help to highlight the important part of your research as well as make it stand out among a number of other publications. Aesthetics are a matter of preference and are largely subjective. A good idea is to get feeback from your colleagues or suppervisor and see how others like your selection of colors. 
 
-### Ready made color scheme examples
+## Ready made color scheme examples
+### Qualitative data
+
+Subgroup palette
 
 | Color                                                            | Hex       | Prot. | Deut. | Trit. |
 | ---------------------------------------------------------------- | --------- | ------| ------| ----- |
@@ -38,7 +41,7 @@ Great combination of colors can help to highlight the important part of your res
 
 Here is an example of how this color scheme look when used in common plot types. 
 
-![the_economist_example_plot](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/the_economist_example.png?raw=true)
+![subgroup_example](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/subgroup_example.png?raw=true)
 
 Also here is an example publication from our group that used the color scheme mentioned above: [Lehner, L. E., Demchyshyn, S., Frank, K., Minenkov, A., Kubicki, D. J., Sun, H., ... & Kaltenbrunner, M. (2022). Elucidating the Origins of High Preferential Crystal Orientation in Quasi‐2D Perovskite Solar Cells. Advanced Materials, 2208061.](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202208061)
 
