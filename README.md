@@ -41,7 +41,7 @@ Subgroup palette
 
 Here is an example of how this color scheme look when used in common plot types. 
 
-![subgroup_example](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/subgroup_example.png?raw=true)
+![subgroup_example](https://github.com/stepan-demchyshyn/perovskite_subgroup/blob/main/pics/subgroup_example.jpeg?raw=true)
 
 Also here is an example publication from our group that used the color scheme mentioned above: [Lehner, L. E., Demchyshyn, S., Frank, K., Minenkov, A., Kubicki, D. J., Sun, H., ... & Kaltenbrunner, M. (2022). Elucidating the Origins of High Preferential Crystal Orientation in Quasi‐2D Perovskite Solar Cells. Advanced Materials, 2208061.](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202208061)
 
