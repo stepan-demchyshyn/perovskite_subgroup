@@ -29,7 +29,7 @@ Great combination of colors can help to highlight the important part of your res
 ## Ready made color scheme examples
 ### Qualitative data
 
-Subgroup palette
+De Stijl palette
 
 | Color                                                            | Hex       | Prot. | Deut. | Trit. |
 | ---------------------------------------------------------------- | --------- | ------| ------| ----- |
